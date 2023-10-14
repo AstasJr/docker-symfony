@@ -12,4 +12,4 @@
 /docker/mysql/
 ### files ###
 .bash_history
-
+.env
